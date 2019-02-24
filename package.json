@@ -1,0 +1,23 @@
+{
+  "name": "Nieinformatyk",
+  "version": "1.0.0",
+  "description": "GitHub Pages:  https://pydyn94.github.io/nieinformatyk/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pydyn94/nieinformatyk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pydyn94/nieinformatyk/issues"
+  },
+  "homepage": "https://github.com/Pydyn94/nieinformatyk#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
